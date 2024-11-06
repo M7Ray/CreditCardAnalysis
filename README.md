@@ -18,6 +18,7 @@ INSIGHTS
 - Maximum Transactions in Cities: Lists cities with the most credit card transactions, indicating high customer activity areas.
 
 CONCLUSION
+
 This dashboard for credit card analysis is an effective tool for identifying trends in consumer spending patterns. It makes it possible for stakeholders to see important details including spending by category, city, and card type. By learning about their tastes and habits, the insights gathered from this analysis can help with strategic decision-making, targeted marketing, and improving customer relationship management.
 
 <img width="712" alt="pic1" src="https://github.com/user-attachments/assets/b3336a77-fc44-4c81-9607-c54901143390">
